@@ -1,3 +1,5 @@
+// https://github.com/yohell/numbered-headings-for-google-docs
+//
 // Installation:
 // In one of your Google docs, go to Tools > Script editor and replace the contents 
 // of Code.gs with the contents of this file. Replace the name "Untitled project" 
