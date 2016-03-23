@@ -66,7 +66,7 @@ function _getCurrenNumbering(initIndex, counterHeader) {
     if (value) {
       value += '.';
     }
-    value += (counterHeader[i] || 1);
+    value += counterHeader[i];
   }
   return value;
 }
