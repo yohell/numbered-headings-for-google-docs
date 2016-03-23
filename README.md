@@ -18,7 +18,9 @@ document.
 ## Credits
 Credit to Paul Thomas for [original version](http://www.extended-content.com/google-docs-how-to-get-automatic-header-numbering/).
 
-### Changes
+## Changes
+
+Changes from original version:
 * Manual page breaks do not break heading styles for the following heading.
 * Start a Heading1 with 1. to reset the numbering.
 * Use space instead of Tab as numbering separator.
