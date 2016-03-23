@@ -4,7 +4,7 @@ User script to add automatic numbering for headings to google docs.
 ## Usage
 Install Code.gs as a user script in one of your Google docs.
 
-Then, click Add-ons > Numbered headings > Update, to add automatic numbering to the 
+Then, click "Add-ons > Numbered headings > Update", to add automatic numbering to the 
 headings in the document. Start a Heading1 with 1. to reset the numbering.
 
 ## Installation
