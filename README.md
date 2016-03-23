@@ -24,3 +24,4 @@ Changes from original version:
 * Manual page breaks do not break heading styles for the following heading.
 * Start a Heading1 with 1. to reset the numbering.
 * Use space instead of Tab as numbering separator.
+* Emit ones instead of zeros for skipped heading levels.
