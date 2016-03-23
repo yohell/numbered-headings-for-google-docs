@@ -16,7 +16,7 @@ if you want to add the menu item right away, without closing and reopening the
 document.
 
 ## Credits
-Credit to Paul Thomas for [original version}(http://www.extended-content.com/google-docs-how-to-get-automatic-header-numbering/).
+Credit to Paul Thomas for [original version](http://www.extended-content.com/google-docs-how-to-get-automatic-header-numbering/).
 
 ### Changes
 * Manual page breaks do not break heading styles for the following heading.
