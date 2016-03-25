@@ -21,6 +21,7 @@ Credit to Paul Thomas for [original version](http://www.extended-content.com/goo
 ## Changes
 
 Changes from original version:
-* Manual page breaks do not break heading styles for the following heading.
+* Menu item "Add-ons > Numbered headings > Update" to update the heading numbering.
 * Start a Heading1 with 1. to reset the numbering.
+* Manual page breaks do not break heading styles for the following heading.
 * Use space instead of Tab as numbering separator.
